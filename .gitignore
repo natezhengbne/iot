@@ -6,3 +6,14 @@ target
 .classpath
 package-lock.json
 webpack.generated.js
+
+# Intellij IDE files
+.idea
+*.iml
+
+# Eclipse
+.project
+.factorypath
+.settings
+
+
