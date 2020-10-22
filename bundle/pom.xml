@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.vaadin.artur</groupId>
+    <groupId>com.intersystems</groupId>
     <version>1.0-SNAPSHOT</version>
-    <artifactId>iot-bundle</artifactId>
-    <name>iot-bundle</name>
+    <artifactId>its-rp-vaadin-bundle</artifactId>
+    <name>its-rp-vaadin-bundle</name>
     <packaging>war</packaging>
 
     <properties>

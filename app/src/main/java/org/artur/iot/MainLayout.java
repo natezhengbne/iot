@@ -76,6 +76,6 @@ public class MainLayout extends AppLayout implements PageConfigurator {
     @Override
     public void configurePage(InitialPageSettings settings) {
         settings.addInlineWithContents(
-                "<script type='module' src='/iot-bundle/VAADIN/build/index.nocache.js'></script>", WrapMode.NONE);
+                "<script type='module' src='/its-rp-vaadin-bundle/VAADIN/build/index.nocache.js'></script>", WrapMode.NONE);
     }
 }

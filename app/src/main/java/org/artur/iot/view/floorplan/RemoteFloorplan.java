@@ -18,7 +18,7 @@ public class RemoteFloorplan extends Component implements HasSize {
     protected void onAttach(AttachEvent attachEvent) {
         super.onAttach(attachEvent);
         Workaround.addJSModule(attachEvent.getUI(),
-                "/iot-floorplan/web-component/floorplan-view.js");
+                "/its-rp-ui-floorplan/web-component/floorplan-view.js");
         setWidth("100%");
     }
 
