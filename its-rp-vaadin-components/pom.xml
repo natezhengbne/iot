@@ -15,8 +15,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <vaadin.version>14.3.3</vaadin.version>
-        <flow.version>2.2.0.alpha1</flow.version>
+        <vaadin.version>14.4.1</vaadin.version>
+        <flow.version>2.4.0</flow.version>
     </properties>
 
     <repositories>
